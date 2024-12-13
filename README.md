@@ -1,7 +1,10 @@
 # REDCap Project Design Guidelines
 
 ## Overview
-This guidelines covers topics on how to design a REDCap project.  You can use this set of guidelines, fork them or make your own - the key here is that you pick a style and stick to it. To suggest changes or fix bugs please open an issue or pull request on GitHub.  If you wish to contribute to this guidelines, please contact me.
+This guidelines covers topics on how to design a REDCap project with best practices in mind.  A basic understanding of designing a REDCap project is required to understand this guidelines. You can use this set of guidelines, fork them or make your own - the key here is that you pick a style and stick to it. To suggest changes or fix bugs please open an issue or pull request on GitHub.  If you wish to contribute to this guidelines, please contact me.
+
+## Purpose
+The purpose of the guidelines is to promote the adoption of best practices in designing REDCap projects. By following these standards, users can ensure their projects are consistent, easy to understand, and straightforward to hand over to new team members. Standardized design practices simplify training, improve collaboration, and reduce the learning curve for both creators and end-users. These guidelines aim to foster a uniform approach that enhances project usability, supports data integrity, and ensures projects are scalable, reproducible, and well-documented for long-term success.
 
 ## General
 
