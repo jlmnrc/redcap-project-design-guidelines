@@ -27,3 +27,5 @@ The following suffixes have a universal meaning ensuring the field can be unders
 ### Radio vs Dropdown
 
 ### Checkboxes
+Instead of using 1, 2, 3, you can use a text, so when presented, it will have more meaningful description.
+(example)
