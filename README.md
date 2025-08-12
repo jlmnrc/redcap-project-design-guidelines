@@ -29,3 +29,6 @@ The following suffixes have a universal meaning ensuring the field can be unders
 ### Checkboxes
 Instead of using 1, 2, 3, you can use a text, so when presented, it will have more meaningful description.
 (example)
+
+## Record ID
+Unique ID should be written down and remembered when searching/adding.  When the project contains 20K records, it will help in searching the database.
