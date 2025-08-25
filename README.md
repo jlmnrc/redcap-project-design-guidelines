@@ -9,6 +9,11 @@ The purpose of the guidelines is to promote the adoption of best practices in de
 ## General
 
 ## Naming Conventions
+### Length
+- REDCap will give a warning if your variable length is more than 26 char.
+- Most stats package will also truncate the variable if it is too long.
+- Keep variable names less than 26 characters​.
+
 ### Uniform suffixes
 The following suffixes have a universal meaning ensuring the field can be understood easily. Use the correct suffix where appropriate.
 
